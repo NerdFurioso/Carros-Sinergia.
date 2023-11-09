@@ -1,0 +1,60 @@
+body {
+					background: #0a4d0a;
+}
+#banner {
+					width: 100%;
+}
+.titulo-principal {
+					text-align: center;
+					color: #4287ff;
+}
+.descrição {
+					text-align: center;
+					color: #1bd043;
+}
+.sobre {
+					text-align: center;
+					font-size: 20px;
+					color: #17aa39;
+}
+.sobre2 {
+					text-align: center;
+					font-size: 25px;
+					color: #1bd043;
+}
+.Contato {
+					color: #17aa39;
+}
+.titulo-centralizado {
+					text-align: center;
+					color: #4287ff;
+}
+.scale {
+					width: 45%;
+					height: 45%;
+}
+.imagem {
+
+					width: 313px;
+					height: 200px;
+					border: 5px solid #555;
+}
+img {
+					float: left;
+}
+.text {
+					font-size: 20px;
+}
+.button {
+					padding: 20px;
+					color: green;
+}
+.color {
+					color: #17aa39;
+}
+.color2 {
+					color: #4287ff;
+}
+.color3 {
+					color: #9dd502;
+}
